@@ -3,15 +3,15 @@
 - 🌱 தற்பொழுது பைத்தான் கற்றுக்கொண்டு வருகின்றேன். 
 - 💞️ நான் அ.பரமேசுவரன், தகவலுழவன், த. சீனிவாசன், பூபாலன், செய்யது சாபர் போன்ற நிரலாளர்களுடன் இணைந்து ஆய்வுமேற்கொண்டு வருகின்றேன்.
 - 📫 இலக்கு
-       📫 தொல்காப்பிய விதிகளுக்கு நிரல் எழுதுதல்.
-       📫 தொல்காப்பியத்திற்குப் பெருந்தரவு மாதிரித் தரவுகள் உருவாக்குதல்.
+       - தொல்காப்பிய விதிகளுக்கு நிரல் எழுதுதல்.
+       - தொல்காப்பியத்திற்குப் பெருந்தரவு மாதிரித் தரவுகள் உருவாக்குதல்.
 - 👋 Hello. I am Dr. Sathiyaraj Thangasamy.
 - 👀 Book reading, write programe coding, create research article, book publication
 - 🌱 I am currently learning Python.
 - 💞️ I am A. Parameswaran, informer, T. Srinivasan, Boobalan, Syed Jeffer and other programmers are brought together for research.
 - 📫 Goal
-      📫 Writing a program for Tolkāppiyam's rules.
-      📫 Creating big data model data for Tolkāppiyam.
+      - Writing a program for Tolkāppiyam's rules.
+      - Creating big data model data for Tolkāppiyam.
 -<!---
 neyakkoot/neyakkoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
